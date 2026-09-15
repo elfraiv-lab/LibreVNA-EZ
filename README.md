@@ -10,7 +10,7 @@ ZNB/ZNA application notes), marker types that answer the question instead of mak
 the graph, a PDF report, four themes, and a touch-friendly layout.
 
 ---
-![Alt text] (https://github.com/elfraiv-lab/LibreVNA-EZ/blob/4f82859f42f147f9281dfb8d13dd5389f8ec1072/IMG/%7BD4B09C32-6362-4DF6-8FF1-CF9F6B7A2148%7D.png?raw=true)
+![Alt text](https://github.com/elfraiv-lab/LibreVNA-EZ/blob/4f82859f42f147f9281dfb8d13dd5389f8ec1072/IMG/%7BD4B09C32-6362-4DF6-8FF1-CF9F6B7A2148%7D.png?raw=true)
 ## Guided measurements
 
 Each of these is a dialog that configures the sweep, creates the traces and graphs, and places the
