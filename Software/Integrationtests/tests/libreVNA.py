@@ -1,1 +1,0 @@
-../../../Documentation/UserManual/SCPI_Examples/libreVNA.py
