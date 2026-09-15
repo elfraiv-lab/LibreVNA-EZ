@@ -1,15 +1,13 @@
-*.s#*
-*.b#*
-*.log
-*.net
-*.op.raw
-*.raw
-*.vnafw
-*.aux
-*.log
-*.synctex.gz
-*.xcf
-*.out
-*.toc
-*.pyc
-Hardware/Renderings
+# Qt Creator / CMake build output
+build*/
+*.user
+*.user.*
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+
+# local libusb binary (placed next to CMakeLists.txt for the Windows build)
+libusb-1.0.a
+
+# unrelated tooling
+install.cmd
